@@ -1,0 +1,2 @@
+# springcloud_combineMaven
+一个Maven聚合项目的演练，内容包括一个Eureka注册中心，还有一个Maven三层聚合项目
