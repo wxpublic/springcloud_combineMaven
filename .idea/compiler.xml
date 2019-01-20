@@ -18,7 +18,7 @@
       <module name="springcloud-2.0-api-member-service-impl" target="1.8" />
       <module name="springcloud-2.0-api-member-service-impls" target="1.5" />
       <module name="springcloud-2.0-api-order-service" target="1.8" />
-      <module name="springcloud-2.0-api-order-service-impl" target="1.7" />
+      <module name="springcloud-2.0-api-order-service-impl" target="1.8" />
       <module name="springcloud-2.0-api-service" target="1.8" />
       <module name="springcloud-2.0-eureka-server" target="1.8" />
       <module name="springcloud-2.0-parent" target="1.8" />

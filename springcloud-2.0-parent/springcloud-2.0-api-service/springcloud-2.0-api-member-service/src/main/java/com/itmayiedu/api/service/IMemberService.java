@@ -2,6 +2,7 @@ package com.itmayiedu.api.service;
 
 import com.itmayiedu.api.entity.UserEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 public interface IMemberService {
     /**
@@ -11,5 +12,5 @@ public interface IMemberService {
      * 代码的实现逻辑都应存放在实现项目中；
      */
     @RequestMapping("/getMember")
-    public UserEntity getMember(String name);
+    public UserEntity getMember(@RequestParam("name") String name);
 }
