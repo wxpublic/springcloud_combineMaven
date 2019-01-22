@@ -11,6 +11,7 @@
         <module name="springcloud-2.0-api-order-service" />
         <module name="springcloud-2.0-api-order-service-impl" />
         <module name="springcloud-2.0-eureka-server" />
+        <module name="springcloud-2.0-itmayiedu-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="springcloud-2.0-api-order-service-impl" target="1.8" />
       <module name="springcloud-2.0-api-service" target="1.8" />
       <module name="springcloud-2.0-eureka-server" target="1.8" />
+      <module name="springcloud-2.0-itmayiedu-common" target="1.8" />
       <module name="springcloud-2.0-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -32,6 +34,7 @@
       <module name="springcloud-2.0-api-order-service-impl" options="-parameters" />
       <module name="springcloud-2.0-api-service" options="-parameters" />
       <module name="springcloud-2.0-eureka-server" options="-parameters" />
+      <module name="springcloud-2.0-itmayiedu-common" options="-parameters" />
       <module name="springcloud-2.0-parent" options="-parameters" />
     </option>
   </component>

@@ -11,6 +11,7 @@
     <module>springcloud-2.0-api-service</module>
     <module>springcloud-2.0-api-member-service-impl</module>
     <module>springcloud-2.0-api-order-service-impl</module>
+      <module>springcloud-2.0-itmayiedu-common</module>
   </modules>
   <packaging>pom</packaging>
 
