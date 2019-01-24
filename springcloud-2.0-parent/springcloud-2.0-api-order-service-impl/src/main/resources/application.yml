@@ -45,6 +45,6 @@ hystrix:
         # 设置hystrix服务返回超时等待时长（不设置：默认为1秒）
 #        isolation:
 #          thread:
-#            timeoutInMilliseconds=5000
+#            timeoutInMilliseconds: 5000
 
 
